@@ -1,0 +1,12 @@
+$myColor: red;
+$greenColor: #13b54d;
+
+.container {
+  text-align: center;
+  color: $myColor;
+}
+
+#custom-div {
+  font-size: 20px;
+  color: $greenColor;
+}
